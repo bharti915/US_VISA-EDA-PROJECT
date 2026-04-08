@@ -99,7 +99,7 @@ The dataset includes various attributes such as:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/bharti915/US_VISA-EDA-PROJECT/blob/main/EDA-US_VISA.ipynb
 
 
 
